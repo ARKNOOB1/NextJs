@@ -18,3 +18,41 @@
   color: grey;
   margin: 5px 0px;
 }
+
+.p-20 {
+  padding: 20px;
+}
+
+input {
+  box-sizing: border-box;
+  padding-inline-start: 10px;
+  display: block;
+  margin-bottom: 10px;
+}
+button {
+  padding: 10px 15px;
+  background: lightblue;
+  border: none;
+  border-radius: 5px;
+}
+button:hover {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.navbar {
+  background: white;
+  padding: 20px;
+}
+.navbar a {
+  margin-right: 10xp;
+  text-decoration: none;
+  color: black;
+}
+.logo {
+  font-weight: bold;
+}
